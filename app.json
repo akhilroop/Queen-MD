@@ -1,7 +1,7 @@
 {
         "name": "ROMAN-MD",
 	"description": "Roman-MD WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/DarkWinzo/Queen-MD",
+	"repository": "https://github.com/akhilroop/Queen-MD",
 	"logo": "https://i.ibb.co/jZkzpw2/Queen.jpg",
 	"keywords": ["multi-device","Roman-MD","Akhilroop"],
   "stack": "container",
